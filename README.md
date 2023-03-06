@@ -18,6 +18,7 @@
 - [Pandas](https://github.com/vn322/Cod_future/blob/main/Pandas.ipynb)
 - [SciPy](https://github.com/vn322/Cod_future/blob/main/SciPy.ipynb)
 - [Scikit-learn](https://github.com/vn322/Cod_future/blob/main/Scikit_learn.ipynb)
+- [Statsmodels](https://github.com/vn322/Cod_future/blob/main/Statsmodels.ipynb)
 
 Программирование искусственного интеллекта для анализа видеоигр
 
