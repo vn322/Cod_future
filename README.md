@@ -13,6 +13,7 @@
 
 
 Библиотеки Python
+- [Библиотека math](https://github.com/vn322/Cod_future/blob/main/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_math.ipynb)
 - [NumPy](https://github.com/vn322/Cod_future/blob/main/Numpy.ipynb)
 - [Matplotlib и Seaborn](https://github.com/vn322/Cod_future/blob/main/Matplotlib_Seaborn.ipynb)
 - [Pandas](https://github.com/vn322/Cod_future/blob/main/Pandas.ipynb)
